@@ -2,8 +2,6 @@
 
 ## Candidato: Wesley Conceição 
 
----
-
 ## Introdução 
 Caso queria visualizar as respostas deste desafio é necessário:
 Ter acesso ao Google Cloud Platform (GCP) para utilizar o BigQuery, onde serão visualizados e consultados os dados disponíveis no projeto datario.

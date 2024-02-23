@@ -19,4 +19,5 @@ Caso você não tenha acesso ou não saiba acessar o google colab mas queria vis
 
 ## 3- Visualização de Dados - PowerBI
 Para visualizar o dashboard [clique aqui](); 
+
 Adendo: A medida que as tabelas da datario vão atualizando o dashboard vai atualizando também

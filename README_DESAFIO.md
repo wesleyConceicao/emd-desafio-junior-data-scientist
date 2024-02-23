@@ -15,6 +15,8 @@ Verifique Tutorial para acessar dados no BigQuery, desde a criação da conta no
 ## 2- Análise Python - Jupyter Notebook
 Caso você tenha login e acesso ao google colab faça seu login, acesse com sua conta do Google.
 Você pode importar o arquivo notebook [analise_python.ipynb](https://github.com/wesleyConceicao/emd-desafio-junior-data-scientist/blob/main/analise_python.ipynb), que está nesse repositório. Não se esqueça de clonar o repositório ou baixar o arquivo jupyter.
-Caso você não tenha acesso ou não saiba acessar o google colab mas queria visualizar as analises com os gráficos acesse este [link:](https://nbviewer.org/github/wesleyConceicao/emd-desafio-junior-data-scientist/blob/main/analise_python.ipynb) essa é a forma mais fácil de visualizar as analises caso sua maquina não tenha suporte 
-## 3- Visualização de Dados - PowerBi
-Para visualizar o arquivo PowerBi [clique aqui]()
+Caso você não tenha acesso ou não saiba acessar o google colab mas queria visualizar as analises com os gráficos acesse este [link](https://nbviewer.org/github/wesleyConceicao/emd-desafio-junior-data-scientist/blob/main/analise_python.ipynb) essa é a forma mais fácil de visualizar as analises caso sua maquina não tenha suporte 
+
+## 3- Visualização de Dados - PowerBI
+Para visualizar o dashboard [clique aqui](); 
+Adendo: A medida que as tabelas da datario vão atualizando o dashboard vai atualizando também

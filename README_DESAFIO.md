@@ -1,6 +1,6 @@
 # Desafio Técnico - Cientista de Dados Júnior 
 
-## Candidato: Wesley Conceição 
+Wesley Conceição 
 
 ## Introdução 
 Caso queria visualizar as respostas deste desafio é necessário:

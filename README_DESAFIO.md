@@ -13,8 +13,8 @@ Criar ou selecionar um projeto existente com a opção Sem organização
 Verifique Tutorial para acessar dados no BigQuery, desde a criação da conta no GCP até consultar os dados utilizando SQL e Python: [Como acessar dados no BigQuery](https://docs.dados.rio/tutoriais/como-acessar-dados/)  caso queria o arquivo para executar no BigQuery é só clicar em [analise_sql.sql](https://github.com/wesleyConceicao/emd-desafio-junior-data-scientist/blob/main/analise_sql.sql)
 
 ## 2- Análise Python - Jupyter Notebook
-Caso você tenha acesso ao google colab faça seu login, acesse com sua conta.
-Você pode importar o arquivo notebook [analise_python.ipynb](https://github.com/wesleyConceicao/emd-desafio-junior-data-scientist/blob/main/analise_python.ipynb), que está nesse repositório. Não se esqueça de clonar o repositório ou baixar o arquivo jupyter.
+Caso você tenha acesso ao google colab faça seu login, acesse com sua conta
+Você pode importar o arquivo notebook [analise_python.ipynb](https://github.com/wesleyConceicao/emd-desafio-junior-data-scientist/blob/main/analise_python.ipynb), que está nesse repositório; não se esqueça de clonar o repositório ou baixar o arquivo jupyter.
 Caso você não tenha acesso ou não saiba acessar o google colab mas queria visualizar as analises com os gráficos acesse este [link](https://nbviewer.org/github/wesleyConceicao/emd-desafio-junior-data-scientist/blob/main/analise_python.ipynb) essa é a forma mais fácil de visualizar as analises caso sua maquina não tenha suporte 
 
 ## 3- Visualização de Dados - PowerBI

@@ -18,6 +18,6 @@ Você pode importar o arquivo notebook [analise_python.ipynb](https://github.com
 Caso você não tenha acesso ou não saiba acessar o google colab mas queria visualizar as analises com os gráficos acesse este [link](https://nbviewer.org/github/wesleyConceicao/emd-desafio-junior-data-scientist/blob/main/analise_python.ipynb) essa é a forma mais fácil de visualizar as analises caso sua maquina não tenha suporte 
 
 ## 3- Visualização de Dados - PowerBI
-Para visualizar o dashboard [clique aqui](); 
+Para visualizar o dashboard [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiYzAwY2VlYzQtMTEwMi00ZGFkLTkxNzItYjFhYmVjZWIwNjMyIiwidCI6IjI2ZTY3OTdjLThmZDItNDM1NC04N2NiLTdjMjU3OTI5ZWI2NSJ9&embedImagePlaceholder=true); 
 
 Adendo: A medida que as tabelas da datario vão atualizando o dashboard vai atualizando também

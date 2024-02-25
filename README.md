@@ -3,7 +3,7 @@
 Wesley Conceição 
 * **[Linkedin]**(https://www.linkedin.com/in/wesley-concei%C3%A7%C3%A3o/)
 
-## * Introdução 
+## *Introdução 
 Caso queria visualizar as respostas deste desafio é necessário:
 Ter acesso ao Google Cloud Platform (GCP) para utilizar o BigQuery, onde serão visualizados e consultados os dados disponíveis no projeto datario.
 Ter acesso ao Google colab caso não tenha python ou jupyter notebook instalado 

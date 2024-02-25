@@ -1,7 +1,7 @@
 # Desafio Técnico - Cientista de Dados Júnior 
 
 Wesley Conceição 
-* **[Linkedin]**(https://www.linkedin.com/in/wesley-concei%C3%A7%C3%A3o/)
+* **[Linkedin](https://www.linkedin.com/in/wesley-concei%C3%A7%C3%A3o/)**
 
 ## *Introdução 
 Caso queria visualizar as respostas deste desafio é necessário:

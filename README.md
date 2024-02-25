@@ -18,7 +18,7 @@ Você pode importar o arquivo notebook [analise_python.ipynb](https://github.com
 ~~~
 !pip install basedosdados
 !pip install seaborn
-!pip install folium`
+!pip install folium
 !pip install plotly
 ~~~~
 Caso você não tenha acesso ou não saiba acessar o google colab mas queria visualizar as analises com os gráficos acesse este [link](https://nbviewer.org/github/wesleyConceicao/emd-desafio-junior-data-scientist/blob/main/analise_python.ipynb) essa é a forma mais fácil de visualizar as analises caso sua maquina não tenha suporte 
